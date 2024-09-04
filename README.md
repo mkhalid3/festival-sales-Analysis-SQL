@@ -16,11 +16,11 @@ Quantity Sold: Number of units sold.
 Promotional Activities: Details of promotions applied (e.g., BOGOF, Cashback, discounts).  
 
 ## SQL Queries and Analysis
-The analysis was conducted using SQL queries to extract, aggregate, and analyze the sales data. Key queries include:
+The analysis was conducted using SQL queries to extract, aggregate, and analyze the sales data. Key queries include:  
 
- Revenue Growth Analysis: Calculation of Revenue Growth (RG) for each product and store.
- Quantity Growth Analysis: Determination of Quantity Growth (QG) across different product categories and store locations.
- Promotional Impact: Analysis of the effectiveness of promotional activities on sales performance.
+ Revenue Growth Analysis: Calculation of Revenue Growth (RG) for each product and store.  
+ Quantity Growth Analysis: Determination of Quantity Growth (QG) across different product categories and store locations.  
+ Promotional Impact: Analysis of the effectiveness of promotional activities on sales performance.  
 
 ## Key Insights
 ### Regional Performance:
@@ -30,7 +30,7 @@ Vishakhapatnam, Mangalore, and Trivandrum showed lower performance during the pr
 
 ### Category Performance:
 
-Diwali: Combo1, Home Appliances, and Home Care had the highest QG.
+Diwali: Combo1, Home Appliances, and Home Care had the highest QG.  
 Sankranti: Grocery and Staples, Home Appliances, and Home Care led in QG.
 
 ### Promotional Effectiveness:
@@ -40,10 +40,10 @@ Discount-based promotions were less effective.
 
 ### Top Products by Revenue Growth:
 
-Atliq Waterproof Immersion Rod
-Atliq High Glo 15W LED Bulb
-Atliq Double Bedsheet Set
-Atliq Curtains
+Atliq Waterproof Immersion Rod  
+Atliq High Glo 15W LED Bulb  
+Atliq Double Bedsheet Set  
+Atliq Curtains  
 Atliq Farm Chakki Atta
 
 ## Conclusion
