@@ -3,24 +3,24 @@
 This project involves the analysis of sales data during festive periods, specifically Diwali and Sankranti, to assess the impact of various promotional activities on sales performance across different product categories and store locations. The analysis focuses on key metrics such as Quantity Growth (QG) and Revenue Growth (RG).
 
 ## Objectives
-Evaluate the effectiveness of different promotions (e.g., BOGOF, cashback offers) on sales.
+Evaluate the effectiveness of different promotions (e.g., BOGOF, cashback offer, and discount offers) on sales.
 Identify top-performing product categories and stores during the festivals.
 Provide insights into regional sales trends and product-specific revenue growth.
+
 ## Data
-The dataset used in this project includes sales data from Atliq Mart, covering various store locations and product categories. The key columns in the dataset include:
+The analysis is conducted using data sourced from AtliQ Mart's internal databases. The primary datasets utilized include fact_events, dim_products, dim_stores, and fact_sales. These datasets provide comprehensive details on product sales, store locations, promotional activities, and campaign-generated revenues.
 
 Store Location: The city where the store is located (e.g., Bengaluru, Chennai, Mysuru).
 Product Category: Categories such as Home Appliances, Grocery and Staples, Home Care, etc.
 Quantity Sold: Number of units sold.
-Revenue Generated: Total revenue from sales.
-Promotional Activities: Details of promotions applied (e.g., BOGOF, Cashback).
+Promotional Activities: Details of promotions applied (e.g., BOGOF, Cashback, discounts).
 
 ## SQL Queries and Analysis
 The analysis was conducted using SQL queries to extract, aggregate, and analyze the sales data. Key queries include:
 
-### Revenue Growth Analysis: Calculation of Revenue Growth (RG) for each product and store.
-### Quantity Growth Analysis: Determination of Quantity Growth (QG) across different product categories and store locations.
-### Promotional Impact: Analysis of the effectiveness of promotional activities on sales performance.
+ Revenue Growth Analysis: Calculation of Revenue Growth (RG) for each product and store.
+ Quantity Growth Analysis: Determination of Quantity Growth (QG) across different product categories and store locations.
+ Promotional Impact: Analysis of the effectiveness of promotional activities on sales performance.
 
 ## Key Insights
 ### Regional Performance:
