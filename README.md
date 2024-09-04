@@ -3,17 +3,17 @@
 This project involves the analysis of sales data during festive periods, specifically Diwali and Sankranti, to assess the impact of various promotional activities on sales performance across different product categories and store locations. The analysis focuses on key metrics such as Quantity Growth (QG) and Revenue Growth (RG).
 
 ## Objectives
-Evaluate the effectiveness of different promotions (e.g., BOGOF, cashback offer, and discount offers) on sales.
-Identify top-performing product categories and stores during the festivals.
-Provide insights into regional sales trends and product-specific revenue growth.
+Evaluate the effectiveness of different promotions (e.g., BOGOF, cashback offer, and discount offers) on sales.  
+Identify top-performing product categories and stores during the festivals.  
+Provide insights into regional sales trends and product-specific revenue growth.  
 
 ## Data
-The analysis is conducted using data sourced from AtliQ Mart's internal databases. The primary datasets utilized include fact_events, dim_products, dim_stores, and fact_sales. These datasets provide comprehensive details on product sales, store locations, promotional activities, and campaign-generated revenues.
+The analysis is conducted using data sourced from AtliQ Mart's internal databases. The primary datasets utilized include fact_events, dim_products, dim_stores, and fact_sales. These datasets provide comprehensive details on product sales, store locations, promotional activities, and campaign-generated revenues.  
 
-Store Location: The city where the store is located (e.g., Bengaluru, Chennai, Mysuru).
-Product Category: Categories such as Home Appliances, Grocery and Staples, Home Care, etc.
-Quantity Sold: Number of units sold.
-Promotional Activities: Details of promotions applied (e.g., BOGOF, Cashback, discounts).
+Store Location: The city where the store is located (e.g., Bengaluru, Chennai, Mysuru).  
+Product Category: Categories such as Home Appliances, Grocery and Staples, Home Care, etc.  
+Quantity Sold: Number of units sold.  
+Promotional Activities: Details of promotions applied (e.g., BOGOF, Cashback, discounts).  
 
 ## SQL Queries and Analysis
 The analysis was conducted using SQL queries to extract, aggregate, and analyze the sales data. Key queries include:
