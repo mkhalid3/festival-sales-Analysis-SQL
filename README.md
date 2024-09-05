@@ -1,4 +1,4 @@
-# Impact Analysis of Festive Promotionson Sales (SQL)
+# Impact Analysis of Festive Promotions on Sales (SQL)
 ## Project Overview
 This project involves the analysis of sales data during festive periods, specifically Diwali and Sankranti, to assess the impact of various promotional activities on sales performance across different product categories and store locations. The analysis focuses on key metrics such as Quantity Growth (QG) and Revenue Growth (RG).
 
